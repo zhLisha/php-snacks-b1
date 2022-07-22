@@ -8,7 +8,7 @@
     <title>Document</title>
 </head>
 <body>
-    <!-- Olimpia Milano - Cantù | 55-60 -->
+
     <?php 
         $matches = [
             [
